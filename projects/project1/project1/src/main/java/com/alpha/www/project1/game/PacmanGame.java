@@ -1,6 +1,7 @@
 package com.alpha.www.project1.game;
 
-public class SuperContraGame implements GamingConsole {
+public class PacmanGame implements GamingConsole {
+
 	public void up() {
 		System.out.println("up");
 	}
