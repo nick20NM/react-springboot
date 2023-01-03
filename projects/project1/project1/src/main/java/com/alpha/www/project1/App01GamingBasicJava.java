@@ -5,7 +5,7 @@ import com.alpha.www.project1.game.MarioGame;
 import com.alpha.www.project1.game.PacmanGame;
 import com.alpha.www.project1.game.SuperContraGame;
 
-public class AppGamingBasicJava {
+public class App01GamingBasicJava {
 
 	public static void main(String[] args) {
 //		var game = new MarioGame();
