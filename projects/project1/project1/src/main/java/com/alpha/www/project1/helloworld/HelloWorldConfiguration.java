@@ -1,4 +1,4 @@
-package com.alpha.www.project1;
+package com.alpha.www.project1.helloworld;
 
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.context.annotation.Bean;

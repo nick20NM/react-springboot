@@ -3,6 +3,7 @@ package com.alpha.www.project1.game;
 public class PacmanGame implements GamingConsole {
 
 	public void up() {
+		System.out.println("Pacman Game");
 		System.out.println("up");
 	}
 
